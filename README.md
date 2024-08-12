@@ -1,6 +1,6 @@
 # EVOGYM
 
-Welcome to **EVOGYM** – a modern and responsive gym website created using the latest web technologies. This project was built as part of an educational tutorial by [EdRoh](https://www.youtube.com/@EdRoh), and it's a great showcase of a full-stack developer's ability to create dynamic, visually appealing web applications.
+Welcome to **EVOGYM** – a modern and responsive gym website created using the latest web technologies. This project was built as part of an educational tutorial by [EdRoh](https://www.youtube.com/@EdRohDev), and it's a great showcase of a full-stack developer's ability to create dynamic, visually appealing web applications.
 
 ## 🛠 Technologies Used
 
