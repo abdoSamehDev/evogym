@@ -55,7 +55,7 @@ npm installbash
 npm run dev
 ```
 
-## Learning Outcomes
+## 📚 Learning Outcomes
 
 Through this project, I’ve deepened my understanding of React and TypeScript, honed my CSS skills with Tailwind, and explored the power of Framer Motion for creating smooth, engaging animations.
 
