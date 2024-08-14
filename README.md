@@ -41,21 +41,21 @@ To run this project locally:
     ```
 2. Navigate to the project directory
 
-```bash
-cd evogym
-```
+    ```bash
+    cd evogym
+    ```
 
 3. Install dependencies
 
-```bash
-npm installbash
-```
+    ```bash
+    npm installbash
+    ```
 
 4. Start the development server
 
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
 
 ## 📚 Learning Outcomes
 
